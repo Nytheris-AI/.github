@@ -22,8 +22,6 @@
 |---|---|---|
 | [`aether-sdk`](https://github.com/muninn-hq/aether-sdk) | Rust | An AI Memory Layer for Modern Agentic AI |
 | [`aether-memory`](https://github.com/muninn-hq/aether-memory) | TypeScript | Privacy-preserving two-way vault sync, Git lattice sync, and KV-cache warming for Aether MCP |
-| [`NotedAI`](https://github.com/muninn-hq/NotedAI) | Go | Self-hosted, privacy-first knowledge management and note-taking platform |
-| [`boresover-frontend`](https://github.com/muninn-hq/boresover-frontend) | TypeScript | Frontend application |
 | [`brand`](https://github.com/muninn-hq/brand) | SVG / Docs | Logos, color palette, and visual assets |
 
 ## Engineering Principles
